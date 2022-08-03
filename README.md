@@ -2,4 +2,4 @@
 
 ### Video-Demo: https://www.youtube.com/watch?v=Uv2dFKxMBPQ&t=12s
 
-Este proyecto consiste en una imitación muy exacta de la pagina de busqueda de google. Dentro de las funciones que posee esta pagina esta la utilizacion del motor de busqueda de google, ademas posee una pagina para poder buscar imagenes y una pagina para busqueda avanzada. Este proyecto esta hecho en HTML y Css.
+This project consists of a very exact imitation of the google search page. Among the functions that this page has is the use of the google search engine, it also has a page to search for images and a page for advanced search. This project is done in HTML and Css.
